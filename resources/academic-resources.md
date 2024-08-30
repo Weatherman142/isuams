@@ -18,9 +18,9 @@ include_js: academic
    - Academic Coaching - Students can meet with academic coaches to learn a variety techniques to improve academically.  Sessions are one-on-one and students typically meet with an academic coach 3-4 times a semester.  This is a free service provided year round to students at Iowa State.  Academic coaches also provide a free workshop series during the fall and spring semesters.
       - [Academic Coaching](http://www.asc.dso.iastate.edu/coaching)
       - [Workshop Series](http://www.asc.dso.iastate.edu/coaching/workshop)
-   - Psych 131 - This is a one credit, pass/fail course designed to improve students’ academic skills. [http://www.asc.dso.iastate.edu/psych131](http://www.asc.dso.iastate.edu/psych131)
+   - Psych 131 - This is a one credit, pass/fail course designed to improve students’ academic skills. [https://asc.dso.iastate.edu/psych-131](https://asc.dso.iastate.edu/psych-131)   
 - Help Rooms - Various departments and classes across campus have rooms staffed by students who provide free academic assistance for specific courses.  Some help rooms available that may be useful for meteorology undergraduates are:
-   - [Physics](http://www.physastro.iastate.edu/courses/help-rooms)
+   - [Physics](https://www.physastro.iastate.edu/learning-support-physics)
    - [Math](https://docs.google.com/spreadsheets/d/1Dhv8N_f48Z2xVDoIAzmNUKg_pUIVUOgtJ5sEmFL1dGs/pubhtml#)
    - [Chemistry](http://www.chem.iastate.edu/chemistry-help-room)
    - Meteorology 206: 3008 Agronomy Hall
