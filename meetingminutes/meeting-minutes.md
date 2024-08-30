@@ -7,79 +7,92 @@ section: about
 **Most recent:** [August 27, 2024]({{site.baseurl }}/uploads/minutes/2024-25/August 27 2024 Minutes.pdf)
 ---
 **2024-2025**
-- [August 27, 2024]({{site.baseurl }}/uploads/minutes/2024-25/August 27 2024 Minutes.pdf)
+
+ - [August 27, 2024]({{site.baseurl }}/uploads/minutes/2024-25/August 27 2024 Minutes.pdf)
+  
+----
 
 **2023-2024**
-- [August 22, 2023]({{site.baseurl }}/uploads/minutes/2023-24/August 22 2023 Minutes.pdf)
-- [September 26, 2023]({{site.baseurl }}/uploads/minutes/2023-24/September 26 2023 Minutes.pdf)
-- [October 24, 2023]({{site.baseurl }}/uploads/minutes/2023-24/October 24th 2023 Minutes.pdf)
-- [November 28, 2023]({{site.baseurl }}/uploads/minutes/2023-24/November 28 2023 Minutes.pdf)
-- [January 23, 2024]({{site.baseurl }}/uploads/minutes/2023-24/January_2024_Minutes.pdf)
-- [February 27, 2024]({{site.baseurl }}/uploads/minutes/2023-24/February_2024_Minutes.pdf)
-- [March 26, 2024]({{site.baseurl }}/uploads/minutes/2023-24/March_2024_Minutes.pdf)
-- [April 23, 2024]({{site.baseurl }}/uploads/minutes/2023-24/April_23_2024_Minutes.pdf)
-  
+
+ - [August 22, 2023]({{site.baseurl }}/uploads/minutes/2023-24/August 22 2023 Minutes.pdf)
+ - [September 26, 2023]({{site.baseurl }}/uploads/minutes/2023-24/September 26 2023 Minutes.pdf)
+ - [October 24, 2023]({{site.baseurl }}/uploads/minutes/2023-24/October 24th 2023 Minutes.pdf)
+ - [November 28, 2023]({{site.baseurl }}/uploads/minutes/2023-24/November 28 2023 Minutes.pdf)
+ - [January 23, 2024]({{site.baseurl }}/uploads/minutes/2023-24/January_2024_Minutes.pdf)
+ - [February 27, 2024]({{site.baseurl }}/uploads/minutes/2023-24/February_2024_Minutes.pdf)
+ - [March 26, 2024]({{site.baseurl }}/uploads/minutes/2023-24/March_2024_Minutes.pdf)
+ - [April 23, 2024]({{site.baseurl }}/uploads/minutes/2023-24/April_23_2024_Minutes.pdf)
+
+----
+
 **2022-2023**
-- [August 23, 2022]({{site.baseurl }}/uploads/minutes/2022-23/August 23 2022 Minutes.pdf)
-- [September 27, 2022]({{site.baseurl }}/uploads/minutes/2022-23/September 27 2022 Minutes.pdf)
-- [October 25, 2022]({{site.baseurl }}/uploads/minutes/2022-23/October 25 2022 Minutes.pdf)
-- [November 29, 2022]({{site.baseurl }}/uploads/minutes/2022-23/November 29 2022 Minutes.pdf)
-- [January 31, 2023]({{site.baseurl }}/uploads/minutes/2022-23/January 31 2023 Minutes.pdf)
-- [February 28, 2023]({{site.baseurl }}/uploads/minutes/2022-23/February 28th Meeting.pdf)
-- [March 28, 2023]({{site.baseurl }}/uploads/minutes/2022-23/AMS Meeting Minutes - March 28th.pdf)
-- [April 25, 2023]({{site.baseurl }}/uploads/minutes/2022-23/ISU AMS - April 25th Meeting Agenda.pdf)
+ - [August 23, 2022]({{site.baseurl }}/uploads/minutes/2022-23/August 23 2022 Minutes.pdf)
+ - [September 27, 2022]({{site.baseurl }}/uploads/minutes/2022-23/September 27 2022 Minutes.pdf)
+ - [October 25, 2022]({{site.baseurl }}/uploads/minutes/2022-23/October 25 2022 Minutes.pdf)
+ - [November 29, 2022]({{site.baseurl }}/uploads/minutes/2022-23/November 29 2022 Minutes.pdf)
+ - [January 31, 2023]({{site.baseurl }}/uploads/minutes/2022-23/January 31 2023 Minutes.pdf)
+ - [February 28, 2023]({{site.baseurl }}/uploads/minutes/2022-23/February 28th Meeting.pdf)
+ - [March 28, 2023]({{site.baseurl }}/uploads/minutes/2022-23/AMS Meeting Minutes - March 28th.pdf)
+ - [April 25, 2023]({{site.baseurl }}/uploads/minutes/2022-23/ISU AMS - April 25th Meeting Agenda.pdf)
+
+----
 
 **2021-2022**
 
-- [August 24, 2021]({{site.baseurl }}/uploads/minutes/2021-22/8-24-21 AMS meeting minutes.pdf)
-- [September 28, 2021]({{site.baseurl }}/uploads/minutes/2021-22/9-28-21 AMS meeting minutes.pdf)
-- [October 26, 2021]({{site.baseurl }}/uploads/minutes/2021-22/10-26-21 AMS meeting minutes.pdf)
-- [November 30, 2021]({{site.baseurl }}/uploads/minutes/2021-22/11-30-21 AMS meeting minutes.pdf)
-- [January 18, 2022]({{site.baseurl }}/uploads/minutes/2021-22/01-18-22 AMS meeting minutes.pdf)
-- [February 22, 2022]({{site.baseurl }}/uploads/minutes/2021-22/02-22-22 AMS meeting minutes.pdf)
-- [March 29, 2022]({{site.baseurl }}/uploads/minutes/2021-22/March 29th Meeting Minutes.pdf)
-- [April 26, 2022]({{site.baseurl }}/uploads/minutes/2021-22/April_26th_Meeting_Minutes.pdf)
+ - [August 24, 2021]({{site.baseurl }}/uploads/minutes/2021-22/8-24-21 AMS meeting minutes.pdf)
+ - [September 28, 2021]({{site.baseurl }}/uploads/minutes/2021-22/9-28-21 AMS meeting minutes.pdf)
+ - [October 26, 2021]({{site.baseurl }}/uploads/minutes/2021-22/10-26-21 AMS meeting minutes.pdf)
+ - [November 30, 2021]({{site.baseurl }}/uploads/minutes/2021-22/11-30-21 AMS meeting minutes.pdf)
+ - [January 18, 2022]({{site.baseurl }}/uploads/minutes/2021-22/01-18-22 AMS meeting minutes.pdf)
+ - [February 22, 2022]({{site.baseurl }}/uploads/minutes/2021-22/02-22-22 AMS meeting minutes.pdf)
+ - [March 29, 2022]({{site.baseurl }}/uploads/minutes/2021-22/March 29th Meeting Minutes.pdf)
+ - [April 26, 2022]({{site.baseurl }}/uploads/minutes/2021-22/April_26th_Meeting_Minutes.pdf)
+
+----
 
 **2020-2021**
 
-  - [August 25, 2020]({{site.baseurl }}/uploads/minutes/2020-21/8-25-20 Minutes.pdf)
-  - [September 29, 2020]({{site.baseurl }}/uploads/minutes/2020-21/9-29-20 Minutes.pdf)
-  - [October 27, 2020]({{site.baseurl }}/uploads/minutes/2020-21/10-27-20 Minutes.pdf)
-  - [January 26, 2021]({{site.baseurl }}/uploads/minutes/2020-21/1-26-20 Minutes.pdf)
-  - [February 23, 2021]({{site.baseurl }}/uploads/minutes/2019-20/Meeting Minutes - 2-25-20.pdf)
-  - [March 30, 2021]({{site.baseurl }}/uploads/minutes/2020-21/3-30-21 Minutes.pdf)
+ - [August 25, 2020]({{site.baseurl }}/uploads/minutes/2020-21/8-25-20 Minutes.pdf)
+ - [September 29, 2020]({{site.baseurl }}/uploads/minutes/2020-21/9-29-20 Minutes.pdf)
+ - [October 27, 2020]({{site.baseurl }}/uploads/minutes/2020-21/10-27-20 Minutes.pdf)
+ - [January 26, 2021]({{site.baseurl }}/uploads/minutes/2020-21/1-26-21 Minutes.pdf)
+ - [February 23, 2021]({{site.baseurl }}/uploads/minutes/2020-21/2-23-21 Minutes.pdf)
+ - [March 30, 2021]({{site.baseurl }}/uploads/minutes/2020-21/3-30-21 Minutes.pdf)
+ - [April 20, 2021]({{site.baseurl }}/uploads/minutes/2020-21/4-20-21.pdf)
+
+----
 
 **2019-2020**
 
-  - [August 27, 2019]({{ site.baseurl }}/uploads/minutes/2019-20/8-27-19Links.pdf)
-  - [September 24, 2019]({{ site.baseurl }}/uploads/minutes/2019-20/9-24-19 Minutes.pdf)
-  - [October 29, 2019]({{ site.baseurl }}/uploads/minutes/2019-20/10-29-19 Minutes.pdf)
-  - [December 3, 2019]({{ site.baseurl }}/uploads/minutes/2019-20/12-03-19 Minutes.pdf)
-  - [January 28, 2020]({{ site.baseurl }}/uploads/minutes/2019-20/Meeting Minutes - 01_28_2020.pdf)
-  - [February 25, 2020]({{ site.baseurl }}/uploads/minutes/2019-20/Meeting Minutes - 2-25-20.pdf)
-  - [March 24, 2020]({{ site.baseurl }}/uploads/minutes/2019-20/3-24-20 Agenda.pdf)
+ - [August 27, 2019]({{ site.baseurl }}/uploads/minutes/2019-20/8-27-19Links.pdf)
+ - [September 24, 2019]({{ site.baseurl }}/uploads/minutes/2019-20/9-24-19 Minutes.pdf)
+ - [October 29, 2019]({{ site.baseurl }}/uploads/minutes/2019-20/10-29-19 Minutes.pdf)
+ - [December 3, 2019]({{ site.baseurl }}/uploads/minutes/2019-20/12-03-19 Minutes.pdf)
+ - [January 28, 2020]({{ site.baseurl }}/uploads/minutes/2019-20/Meeting Minutes - 01_28_2020.pdf)
+ - [February 25, 2020]({{ site.baseurl }}/uploads/minutes/2019-20/Meeting Minutes - 2-25-20.pdf)
+ - [March 24, 2020]({{ site.baseurl }}/uploads/minutes/2019-20/3-24-20 Agenda.pdf)
   
 **2018-2019**
 
-  - [August 21, 2018]({{ site.baseurl }}/uploads/minutes/2018-19/08-21-18.pdf)
-  - [September 25, 2018]({{ site.baseurl }}/uploads/minutes/2018-19/9-25-18.pdf)
-  - [October 30, 2018]({{ site.baseurl }}/uploads/minutes/2018-19/10-30-18.pdf)
-  - [November 27, 2018]({{ site.baseurl }}/uploads/minutes/2018-19/11-27-18.pdf)
-  - [February 5, 2019]({{ site.baseurl }}/uploads/minutes/2018-19/2-5-19.pdf)
-  - [February 26, 2019]({{ site.baseurl }}/uploads/minutes/2018-19/2-26-19.pdf)
-  - [March 26, 2019]({{ site.baseurl }}/uploads/minutes/2018-19/3-26-19.pdf)
-  - [April 23, 2019]({{ site.baseurl }}/uploads/minutes/2018-19/4-23-19.pdf)
+ - [August 21, 2018]({{ site.baseurl }}/uploads/minutes/2018-19/08-21-18.pdf)
+ - [September 25, 2018]({{ site.baseurl }}/uploads/minutes/2018-19/9-25-18.pdf)
+ - [October 30, 2018]({{ site.baseurl }}/uploads/minutes/2018-19/10-30-18.pdf)
+ - [November 27, 2018]({{ site.baseurl }}/uploads/minutes/2018-19/11-27-18.pdf)
+ - [February 5, 2019]({{ site.baseurl }}/uploads/minutes/2018-19/2-5-19.pdf)
+ - [February 26, 2019]({{ site.baseurl }}/uploads/minutes/2018-19/2-26-19.pdf)
+ - [March 26, 2019]({{ site.baseurl }}/uploads/minutes/2018-19/3-26-19.pdf)
+ - [April 23, 2019]({{ site.baseurl }}/uploads/minutes/2018-19/4-23-19.pdf)
 
 **2017-2018**
 
-  - [August 22, 2017]({{ site.baseurl }}/uploads/minutes/2017-18/08-22-17.pdf)
-  - [September 26, 2017]({{ site.baseurl }}/uploads/minutes/2017-18/09-26-17.pdf) 
-  - [October 31, 2017]({{ site.baseurl }}/uploads/minutes/2017-18/10-31-17.pdf)
-  - [November 28, 2017]({{ site.baseurl }}/uploads/minutes/2017-18/11-28-17.pdf)
-  - [January 30, 2018]({{ site.baseurl }}/uploads/minutes/2017-18/01-30-18.pdf)
-  - [February 27, 2018]({{ site.baseurl }}/uploads/minutes/2017-18/02-27-18.pdf)
-  - [March 27, 2018]({{ site.baseurl }}/uploads/minutes/2017-18/03-27-18.pdf)
-  - [April 17, 2018]({{ site.baseurl }}/uploads/minutes/2017-18/04-17-18.pdf)
+ - [August 22, 2017]({{ site.baseurl }}/uploads/minutes/2017-18/08-22-17.pdf)
+ - [September 26, 2017]({{ site.baseurl }}/uploads/minutes/2017-18/09-26-17.pdf) 
+ - [October 31, 2017]({{ site.baseurl }}/uploads/minutes/2017-18/10-31-17.pdf)
+ - [November 28, 2017]({{ site.baseurl }}/uploads/minutes/2017-18/11-28-17.pdf)
+ - [January 30, 2018]({{ site.baseurl }}/uploads/minutes/2017-18/01-30-18.pdf)
+ - [February 27, 2018]({{ site.baseurl }}/uploads/minutes/2017-18/02-27-18.pdf)
+ - [March 27, 2018]({{ site.baseurl }}/uploads/minutes/2017-18/03-27-18.pdf)
+ - [April 17, 2018]({{ site.baseurl }}/uploads/minutes/2017-18/04-17-18.pdf)
   
 ----
 
