@@ -40,7 +40,7 @@ An interesting article looking at how data science could help combat climate cha
 [The Ultimate Guide on Water Conservation: How To Save Every Drop](http://californiadegrees.org/the-ultimate-guide-on-water-conservation-how-to-save-every-drop/) <br>
 An educating resource regarding water usage and how you can conserve more of it in your everyday life.
 
-[A Student's Guide to Weather Watching](https://www.aaastateofplay.com/a-students-guide-to-weather-watching-on-the-playground-and-beyond/) <be>
+[A Student's Guide to Weather Watching](https://www.aaastateofplay.com/a-students-guide-to-weather-watching-on-the-playground-and-beyond/) <br>
 A wonderful guide to educating learners on different types of weather and their features.
 
 [Chasing the Storm: Weather Photography](https://mjjsales.com/chasing-the-storm-weather-photography/) <br>
